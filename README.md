@@ -1,1 +1,3 @@
-# Lab-02---about-mee-with-a-guessing-game
+#About Me
+ this project tell users a brief information about me.
+

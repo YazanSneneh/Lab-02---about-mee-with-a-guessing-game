@@ -2,10 +2,17 @@ body{
     background-color: #ffd369;
     color: #222831;
     padding: 25px;
-}
-p{
-    background-color: #222831;
     color: #eeeeee;
+}
+header{
+    text-align: center;
+    background-color: #393e46;
+    padding: 15px;
+    margin-bottom: 20px;;
+}
+main{
+    background-color: #222831;
+    
     border: 1px solid #eeeeee;
-    padding: 150px 50px;
+    padding: 50px;
 }
