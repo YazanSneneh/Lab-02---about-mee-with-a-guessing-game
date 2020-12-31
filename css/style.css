@@ -1,7 +1,6 @@
 body{
     background-color: #ffd369;
-    color: #222831;
-    padding: 25px;
+
     color: #eeeeee;
 }
 header{
@@ -12,7 +11,7 @@ header{
 }
 main{
     background-color: #222831;
-    
+    padding: 25px;
     border: 1px solid #eeeeee;
     padding: 50px;
 }
