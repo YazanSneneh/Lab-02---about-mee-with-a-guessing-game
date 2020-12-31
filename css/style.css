@@ -1,17 +1,26 @@
 body{
-    background-color: #ffd369;
-
+    background-color: #222831;
+    margin:0;
     color: #eeeeee;
+    font-size: 17px;
 }
 header{
     text-align: center;
-    background-color: #393e46;
+    background-color: #222831;
     padding: 15px;
     margin-bottom: 20px;;
 }
+img{
+    display: block;
+    width:30%;
+}
 main{
-    background-color: #222831;
-    padding: 25px;
-    border: 1px solid #eeeeee;
+    background-color: #dddddd;
+    color: #30475e;
     padding: 50px;
+}
+footer{
+    padding: 5px 0;
+    text-align : center;
+
 }
